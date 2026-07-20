@@ -159,18 +159,18 @@ Supports client relationship management by identifying high-value clients, profi
 
 ## 📊 Executive Firm Performance Overview
 
-![Executive Firm Performance Overview](Images/Mohan_Kumar_FP20_Challenge39_Legal_Analytics_page-0001.png)
+![Executive Firm Performance Overview](Images/Mohan_Kumar_FP20_Challenge39_Legal_Analytics_page-0001.jpg)
 
 ---
 
 ## ⚖️ Cases & Lawyer Performance Dashboard
 
-![Cases & Lawyer Performance Dashboard](Images/Mohan_Kumar_FP20_Challenge39_Legal_Analytics_page-0002.png)
+![Cases & Lawyer Performance Dashboard](Images/Mohan_Kumar_FP20_Challenge39_Legal_Analytics_page-0002.jpg)
 
 ---
 ## 👥 Client Value & Performance Dashboard
 
-![Client Value & Performance Dashboard](Images/Mohan_Kumar_FP20_Challenge39_Legal_Analytics_page-0003.png)
+![Client Value & Performance Dashboard](Images/Mohan_Kumar_FP20_Challenge39_Legal_Analytics_page-0003.jpg)
 
 ---
 
